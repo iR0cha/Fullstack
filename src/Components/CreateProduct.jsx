@@ -6,3 +6,5 @@ function CreateProduct() {
 }
 
 export default CreateProduct
+
+// Comentario de prueba
